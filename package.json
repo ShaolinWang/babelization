@@ -1,6 +1,6 @@
 {
   "name": "babelization",
-  "version": "0.0.7",
+  "version": "1.0.0",
   "description": "a set of script tools used in create-babelizaiton-app",
   "main": "index.js",
   "scripts": {
