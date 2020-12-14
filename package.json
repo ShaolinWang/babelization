@@ -1,0 +1,30 @@
+{
+  "name": "babelization",
+  "version": "0.0.7",
+  "description": "a set of script tools used in create-babelizaiton-app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "babel",
+    "JD"
+  ],
+  "bin": "bin/index.js",
+  "author": "wangshaolin3@jd.com",
+  "license": "ISC",
+  "dependencies": {
+    "browserslist": "^4.14.7",
+    "chalk": "^4.1.0",
+    "cross-spawn": "^7.0.3",
+    "fs-extra": "^9.0.1",
+    "html-parse-stringify2": "^2.0.1",
+    "inquirer": "^7.3.3",
+    "pkg-up": "^3.1.0",
+    "react-dev-utils": "^11.0.1",
+    "rimraf": "^3.0.2",
+    "webpack": "^4.44.2",
+    "webpack-dev-server": "^3.11.0"
+  },
+  "devDependencies": {}
+}
